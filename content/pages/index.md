@@ -73,7 +73,7 @@ sections:
       - title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: /images/lagerung-kommerzieller-waren-3.jpg
+        image: /images/iStock-637982848-724x450.jpg
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
