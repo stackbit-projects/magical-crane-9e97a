@@ -157,16 +157,7 @@ sections:
     has_border: true
     background_color: primary
     section_id: brands
-    actions:
-      - label: Products
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - type: features_section
     features:
       - title: Sravi Enterprises
