@@ -89,6 +89,7 @@ sections:
     align: center
     background_color: primary
     enable_cards: true
+    section_id: industry
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
