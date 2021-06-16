@@ -158,7 +158,7 @@ sections:
     background_color: primary
     section_id: brands
     actions:
-      - label: lorem-ipsum
+      - label: Products
         url: '#'
         style: link
         has_icon: false
