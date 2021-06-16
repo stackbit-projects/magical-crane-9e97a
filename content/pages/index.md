@@ -92,7 +92,7 @@ sections:
     section_id: industry
   - type: grid_section
     title: Services
-    subtitle: Grid Section Example
+    subtitle: We provide following
     grid_items:
       - title: Section Item 1
         title_align: left
