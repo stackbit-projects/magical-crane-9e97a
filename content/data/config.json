@@ -2,7 +2,7 @@
     "title": "Sravi Enterprises",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "bold",
     "palette": "green",
     "mode": "light",
     "base_font": "serif",
