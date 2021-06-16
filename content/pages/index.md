@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: SRAVI ENTERPRISES
-    subtitle: Optional hero section subtitle
+    subtitle: Authorised distributors of Sastry Balm
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
