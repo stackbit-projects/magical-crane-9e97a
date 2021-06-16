@@ -30,7 +30,7 @@ sections:
     subtitle: We are proud to be associated with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/sastrybalm logo psd.png
         image_alt: Contentful logo
         image_align: center
     grid_cols: four
