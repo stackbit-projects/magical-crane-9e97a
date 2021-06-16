@@ -14,20 +14,7 @@ sections:
         content: >
           Sastry Balm is the prime product from the 'House of Sri Kodanadarama
           Ayurveda Nilayam'
-      - content: >
-          Sri Kodandarama Ayurveda Nilayam is an Ayurvedic Pharmacy operated
-          from 7 generations of Ayurvedic Specialists. The organisation started
-          gaining popularity under the aegis of Sri. Vukkadapu Ram Mohan Rao.
-          Sastry Balm was started manufacturing from 1993 and since then, it has
-          been a household name in Andhra Pradesh.
-
-
-          The Balm is thoroughly formulated using natural and tested ingredients
-          that ensure to its optimum effectiveness. Sri Kodandarama Ayurveda
-          Nilayam is a GMP certified Organisation by Dept. of Ayush, Govt of
-          India. Owing to this, it is a reliable name in the market for the best
-          herbal formulation in terms of Pain Balm
-        actions: []
+      - actions: []
         media_position: right
         media_width: fifty
         align: left
