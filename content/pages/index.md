@@ -62,6 +62,7 @@ sections:
     align: center
     background_color: secondary
     section_id: statement
+    has_border: true
   - type: grid_section
     title: Industries
     subtitle: We Serve
