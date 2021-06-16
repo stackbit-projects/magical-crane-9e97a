@@ -190,16 +190,6 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
 
 
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
           **Eleanor Carr,** *CTO, Studio*
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
