@@ -44,13 +44,7 @@ sections:
         content: >
           Our Logistic Providers and Committed Workforce are determined to
           deliver the last mile
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/3693139.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
