@@ -81,17 +81,26 @@ sections:
         type: grid_item
       - title: Used for
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Fast Relief from Headache
 
+          *   Cold
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Back Pain
 
+          *   Knee Joint Pain
 
-          - Lorem ipsum
+          *   Neck Pain
 
-          - dolor sit amet
+          *   Sprains
+
+          *   Joint Pains
+
+          *   Muscle Spasm
+
+          *   Frozen Shoulder and
+
+          *   Rheumatic Pain
         content_align: left
         actions: []
         actions_align: left
