@@ -86,6 +86,7 @@ sections:
     grid_cols: two
     align: center
     background_color: secondary
+    enable_cards: true
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
