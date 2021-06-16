@@ -23,7 +23,7 @@
             },
             {
                 "label": "Services",
-                "url": "/blog",
+                "url": "#services",
                 "style": "link"
             },
             {
