@@ -216,7 +216,6 @@ sections:
         type: grid_item
         image: /images/Phone.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
