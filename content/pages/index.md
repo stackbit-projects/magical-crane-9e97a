@@ -186,7 +186,7 @@ sections:
         content_align: right
         title_align: left
         subtitle: Prop.
-    grid_cols: four
+    grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
