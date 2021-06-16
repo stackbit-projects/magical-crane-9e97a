@@ -42,8 +42,9 @@ sections:
         media_width: fifty
       - title: Delivery
         content: >
-          We are committed to deliver the products to the customers in timely
-          manner
+          Our Advanced Supply Chain Management Practices in partnership with
+          Leading Logistic Providers and Committed Workforce are determined to
+          deliver the last mile
         actions:
           - label: Learn More
             url: /style-guide
