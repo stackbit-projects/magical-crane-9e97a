@@ -177,7 +177,6 @@ sections:
     title: About Us
   - type: grid_section
     title: Contact Us
-    subtitle: Grid Section Example
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
