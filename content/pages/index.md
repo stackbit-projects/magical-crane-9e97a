@@ -8,7 +8,7 @@ sections:
       We are the Tamil Nadu distribution partners for Sastry Balm
     actions:
       - label: Sastry Balm
-        url: /pricing
+        url: /sastry-balm
         style: primary
       - label: About Us
         url: '#about'
