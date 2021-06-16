@@ -35,13 +35,7 @@ sections:
           We place a heavy emphasis on earning the trust of our customers and
           strive for maximising their satisfaction with our products and
           services.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/42415.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
