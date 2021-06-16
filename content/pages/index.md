@@ -78,7 +78,7 @@ sections:
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: /images/thinkstockphotosstk325152rkn-5bfc3b04c9e77c0026b912e2.jpg
         image_position: top
     grid_cols: two
     align: center
