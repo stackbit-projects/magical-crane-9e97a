@@ -55,6 +55,9 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
+        subtitle: >-
+          We are committed to deliver the products to the customers in timely
+          manner
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
