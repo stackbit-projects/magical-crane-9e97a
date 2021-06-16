@@ -156,6 +156,7 @@ sections:
     enable_cards: false
     has_border: true
     background_color: primary
+    section_id: brands
   - type: features_section
     features:
       - title: >-
