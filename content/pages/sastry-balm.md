@@ -2,7 +2,7 @@
 title: Sastry Balm
 sections:
   - section_id: sastry-balm-desctiption
-    title: lorem-ipsum
+    title: Sastry Balm
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
