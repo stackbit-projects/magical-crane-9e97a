@@ -173,7 +173,7 @@ sections:
           the Supply Chain.
     feature_padding_vert: small
     background_color: secondary
-    section_id: a
+    section_id: about
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
