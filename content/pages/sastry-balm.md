@@ -20,7 +20,7 @@ sections:
         actions_width: auto
         image_alt: SB
         image_position: top
-        image_width: fourty
+        image_width: thirty-three
         image_align: left
         image_has_padding: false
         type: grid_item
