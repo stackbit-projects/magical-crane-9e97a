@@ -27,7 +27,7 @@ sections:
       width="560" height="315" frameborder="0"></iframe>
   - type: grid_section
     title: Our Partners and Brands
-    subtitle: We are pleased to be associated with
+    subtitle: We are proud to be associated with
     align: center
     grid_items:
       - image: images/logo-1.svg
