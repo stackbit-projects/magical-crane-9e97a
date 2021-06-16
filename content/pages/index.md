@@ -33,10 +33,10 @@ sections:
         subtitle: >-
           'Trust of Suppliers' and 'Satisfaction of the Customers' are core
           focus in our operations
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We place a heavy emphasis on earning the trust of our customers and
+          strive for maximising their satisfaction with our products and
+          services.
         actions:
           - label: Learn More
             url: /style-guide
