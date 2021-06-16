@@ -50,7 +50,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Commitment to deliver the products to the customers in timely manner
-      - title: The Big Title For the Feature
+      - title: Facility
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
