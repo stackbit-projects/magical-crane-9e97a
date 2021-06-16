@@ -3,7 +3,7 @@ title: Sastry Balm
 sections:
   - section_id: sastry-balm-desctiption
     title: Sastry Balm
-    subtitle: 'A Product from '
+    subtitle: 'A Product from Kodanda Ayurveda Nilayam,'
     features: []
     feature_padding_vert: medium
     align: center
