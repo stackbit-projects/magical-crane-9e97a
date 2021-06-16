@@ -30,7 +30,7 @@ sections:
     subtitle: Features Section Example
     features:
       - title: Focus
-        subtitle: "'Satisfaction of the Customers' and\_'Trust of Suppliers'\_\_are core focus in our operations"
+        subtitle: "'Satisfaction of Customers' and\_'Trust of Suppliers'\_\_are core focus in our operations"
         content: >
           We place a heavy emphasis on earning the trust of our customers and
           strive for maximising their satisfaction with our products and
