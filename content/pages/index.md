@@ -203,7 +203,6 @@ sections:
         type: grid_item
         image: /images/Email.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
