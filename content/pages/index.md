@@ -181,7 +181,7 @@ sections:
       - image: /images/Name.png
         image_alt: contact-name
         image_position: left
-        image_width: thirty-three
+        image_width: fourty
         title: Vinod Kumar Kolli
         content_align: right
         title_align: left
