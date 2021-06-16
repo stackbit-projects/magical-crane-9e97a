@@ -187,7 +187,6 @@ sections:
         title_align: left
         subtitle: Prop.
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: |+
 
