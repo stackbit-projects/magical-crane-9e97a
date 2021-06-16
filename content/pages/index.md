@@ -186,20 +186,6 @@ sections:
         content_align: right
         title_align: left
         subtitle: Prop.
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: twenty-five
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/Email.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
