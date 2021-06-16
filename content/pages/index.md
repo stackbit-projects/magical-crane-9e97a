@@ -66,7 +66,7 @@ sections:
     title: Industries
     subtitle: We Serve
     actions:
-      - label: Become Partner
+      - label: Become a Partner
         url: /style-guide
         style: primary
     grid_items:
