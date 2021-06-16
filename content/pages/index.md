@@ -165,6 +165,12 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        content: >
+          We are a proprietorship firm with Vinod Kumar K as the owner of the
+          Organisation. The Organisation believes resilience, hard work and
+          technology are the foundation principles of its operations. We
+          endeavour to become a notable player in the Distribution segment of
+          the Supply Chain.
     feature_padding_vert: small
     background_color: secondary
   - type: grid_section
