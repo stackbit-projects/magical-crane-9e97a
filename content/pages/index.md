@@ -96,10 +96,9 @@ sections:
     grid_items:
       - title: Distribution
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We are building robust Supply Chains with best in class handling of
+          products
         content_align: left
         actions:
           - label: Learn More
