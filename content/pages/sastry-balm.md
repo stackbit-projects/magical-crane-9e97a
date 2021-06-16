@@ -30,7 +30,7 @@ sections:
     title: Sastry Balm
     image: /images/beige-europa.png
     background_image: /images/pexels-miguel-á-padriñán-1111368.jpg
-    subtitle: 'Product by '
+    subtitle: Product by Kodandarama Ayurveda Nilayam
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
