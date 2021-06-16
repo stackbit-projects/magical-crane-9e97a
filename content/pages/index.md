@@ -174,6 +174,7 @@ sections:
     feature_padding_vert: small
     background_color: secondary
     section_id: about
+    title: About Us
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
