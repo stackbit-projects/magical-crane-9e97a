@@ -181,7 +181,7 @@ sections:
       - content: |
           **
         image: /images/Name.png
-        image_alt: Hanson Deck
+        image_alt: contact-name
         image_position: left
         image_width: sixty
         title: Vinod Kumar Kolli
