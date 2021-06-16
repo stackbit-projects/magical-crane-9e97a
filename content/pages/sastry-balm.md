@@ -142,17 +142,22 @@ sections:
         type: grid_item
       - title: Basic Ingredients
         title_align: center
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *   Ajwan Ka Phool
 
+          *   Karpura Powder
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Ganga Sindhuram
 
+          *   Guggilam Powder
 
-          - Lorem ipsum
+          *   Honeywax
 
-          - dolor sit amet
+          *   Lavanga Tailam
+
+          *   Pudina Satwam
+
+          *   Tarpent Tailam
         content_align: left
         actions: []
         actions_align: left
