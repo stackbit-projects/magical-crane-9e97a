@@ -241,7 +241,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: secondary
+    background_color: primary
     section_id: contact
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
