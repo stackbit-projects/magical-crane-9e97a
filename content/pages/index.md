@@ -10,7 +10,7 @@ sections:
       - label: Sastry Balm
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: About Us
         url: /features
         style: secondary
     image: /images/sastry_balm.png
