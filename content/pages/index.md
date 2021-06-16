@@ -93,7 +93,6 @@ sections:
     grid_cols: two
     align: center
     background_color: secondary
-    section_id: We Serve
   - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
