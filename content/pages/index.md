@@ -66,7 +66,7 @@ sections:
     title: Industries
     subtitle: We Serve
     actions:
-      - label: Join the team
+      - label: coeB
         url: /style-guide
         style: primary
     grid_items:
