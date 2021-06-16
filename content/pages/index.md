@@ -79,7 +79,7 @@ sections:
         image_alt: pharma
         image_has_padding: true
       - title: FMCG Industry
-        subtitle: Software Engineer
+        subtitle: Retail & Wholesale
         title_align: center
         image: /images/thinkstockphotosstk325152rkn-5bfc3b04c9e77c0026b912e2.jpg
         image_position: top
