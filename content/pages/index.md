@@ -119,13 +119,7 @@ sections:
           We are building a sustainable and professional Sales force that can
           operate in different marketing segments and verticals
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/sales.png
         image_alt: Section item 2 icon
