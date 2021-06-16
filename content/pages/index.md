@@ -117,7 +117,7 @@ sections:
         title_align: left
         content: >
           We are building a sustainable and professional Sales force that can
-          operate in different marketing segments
+          operate in different marketing segments and verticals
         content_align: left
         actions:
           - label: Learn More
