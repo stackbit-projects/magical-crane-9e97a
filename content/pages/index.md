@@ -87,7 +87,7 @@ sections:
         image_has_padding: true
     grid_cols: two
     align: center
-    background_color: secondary
+    background_color: primary
     enable_cards: true
   - type: grid_section
     title: Cards Grid Section
