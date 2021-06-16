@@ -37,7 +37,7 @@ sections:
           services.
         actions: []
         image: /images/42415.jpg
-        image_alt: Feature 1 placeholder image
+        image_alt: focus
         media_position: right
         media_width: fifty
       - title: Delivery
