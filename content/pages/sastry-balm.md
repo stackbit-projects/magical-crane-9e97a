@@ -47,7 +47,7 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     grid_items:
-      - title: About
+      - title: Description
         title_align: left
         content: >-
           ## Lorem ipsum
