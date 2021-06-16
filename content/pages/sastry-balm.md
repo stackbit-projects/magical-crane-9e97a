@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Sastry Balm
 sections: []
 seo:
   title: ''
