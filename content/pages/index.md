@@ -178,9 +178,7 @@ sections:
   - type: grid_section
     title: Contact Us
     grid_items:
-      - content: |
-          **
-        image: /images/Name.png
+      - image: /images/Name.png
         image_alt: contact-name
         image_position: left
         image_width: sixty
