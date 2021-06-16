@@ -63,32 +63,6 @@ sections:
     background_color: secondary
     section_id: statement
   - type: grid_section
-    title: Our Partners and Brands
-    subtitle: We are proud to be associated with
-    align: center
-    grid_items:
-      - image: /images/sastrybalm logo psd.png
-        image_alt: SB logo
-        image_align: center
-        image_width: twenty-five
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: false
-    has_border: true
-  - type: features_section
-    features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
-        image: images/brandon-guidelines.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: primary
-  - type: grid_section
     title: Cards Grid Section
     subtitle: Grid Section Example
     grid_items:
@@ -158,6 +132,32 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+  - type: grid_section
+    title: Our Partners and Brands
+    subtitle: We are proud to be associated with
+    align: center
+    grid_items:
+      - image: /images/sastrybalm logo psd.png
+        image_alt: SB logo
+        image_align: center
+        image_width: twenty-five
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: false
+    has_border: true
+  - type: features_section
+    features:
+      - title: >-
+          “Stackbit is fast! Themes are always up to date. It’s easy to use
+          across the organization, and collaboration is easy.”
+        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        image: images/brandon-guidelines.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: primary
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
