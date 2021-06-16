@@ -122,10 +122,10 @@ sections:
         image_has_padding: true
       - title: Super Stockist/ CNF/ Logistics
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We are aiming to be part of third party logistic services where
+          companies outsource a part of their Supply Chain Management function
+          to us
         content_align: left
         actions:
           - label: Learn More
