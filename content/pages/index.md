@@ -151,7 +151,7 @@ sections:
         image_align: center
         image_width: twenty-five
         actions:
-          - label: lorem-ipsum
+          - label: More Info
             url: '#'
             style: link
             has_icon: false
