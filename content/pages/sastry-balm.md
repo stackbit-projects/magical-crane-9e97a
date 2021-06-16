@@ -14,12 +14,6 @@ sections:
         content: >
           Sastry Balm is the prime product from the 'House of Sri Kodanadarama
           Ayurveda Nilayam'
-      - actions: []
-        media_position: right
-        media_width: fifty
-        align: left
-        type: feature
-        image: /images/noise.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
