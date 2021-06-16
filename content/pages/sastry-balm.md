@@ -116,7 +116,7 @@ sections:
         actions:
           - label: Quality Assured
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
