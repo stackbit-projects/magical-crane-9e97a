@@ -3,7 +3,7 @@ title: Sastry Balm
 sections:
   - section_id: sastry-balm-desctiption
     title: Sastry Balm
-    subtitle: lorem-ipsum
+    subtitle: 'A Product from '
     features: []
     feature_padding_vert: medium
     align: center
