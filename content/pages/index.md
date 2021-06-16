@@ -25,20 +25,6 @@ sections:
       <iframe
       src="https://www.youtube-nocookie.com/embed/H7su_xBhExY?start=3&modestbranding=1&showinfo=0&rel=0&cc_load_policy=1&iv_load_policy=3&theme=light&fs=0&color=white&controls=0&disablekb=1"
       width="560" height="315" frameborder="0"></iframe>
-  - type: grid_section
-    title: Our Partners and Brands
-    subtitle: We are proud to be associated with
-    align: center
-    grid_items:
-      - image: /images/sastrybalm logo psd.png
-        image_alt: SB logo
-        image_align: center
-        image_width: twenty-five
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    enable_cards: false
-    has_border: true
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
@@ -96,6 +82,20 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - type: grid_section
+    title: Our Partners and Brands
+    subtitle: We are proud to be associated with
+    align: center
+    grid_items:
+      - image: /images/sastrybalm logo psd.png
+        image_alt: SB logo
+        image_align: center
+        image_width: twenty-five
+    grid_cols: four
+    grid_gap_horiz: medium
+    grid_gap_vert: medium
+    enable_cards: false
+    has_border: true
   - type: features_section
     features:
       - title: >-
