@@ -26,7 +26,7 @@ sections:
         type: grid_item
         image: /images/beige-europa.png
       - title: Description
-        title_align: left
+        title_align: center
         content: >
           Sri Kodandarama Ayurveda Nilayam is an Ayurvedic Pharmacy operated
           from 7 generations of Ayurvedic Specialists. The organisation started
