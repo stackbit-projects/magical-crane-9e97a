@@ -160,7 +160,7 @@ sections:
   - type: features_section
     features:
       - title: Sravi Enterprises
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: Founded in 2021. A New Company with a New Begining
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
