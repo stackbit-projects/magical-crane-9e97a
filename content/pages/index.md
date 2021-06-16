@@ -31,7 +31,7 @@ sections:
     align: center
     grid_items:
       - image: /images/sastrybalm logo psd.png
-        image_alt: Contentful logo
+        image_alt: SB logo
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
