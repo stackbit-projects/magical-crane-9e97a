@@ -66,7 +66,7 @@ sections:
     title: Industries
     subtitle: We Serve
     actions:
-      - label: coeB
+      - label: Become Partner
         url: /style-guide
         style: primary
     grid_items:
