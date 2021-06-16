@@ -265,7 +265,7 @@ sections:
       We are happy to help you with your Sales Queries. Speak with our executive
       on Whatsapp.
     actions:
-      - label: Button
+      - label: Talk to Sales
         url: /pricing
         style: primary
     actions_position: bottom
