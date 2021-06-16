@@ -19,7 +19,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: right
         media_width: fifty
-        align: right
+        align: left
         type: feature
         image: /images/beige-europa.png
     feature_padding_vert: medium
