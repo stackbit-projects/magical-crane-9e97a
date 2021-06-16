@@ -100,13 +100,7 @@ sections:
           We are building robust Supply Chains with best in class handling of
           products
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: /images/product.png
         image_alt: Section item 1 icon
