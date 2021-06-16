@@ -46,7 +46,7 @@ sections:
           deliver the last mile
         actions: []
         image: /images/3693139.jpg
-        image_alt: Feature 2 placeholder image
+        image_alt: delivery
         media_position: left
         media_width: fifty
         subtitle: >-
