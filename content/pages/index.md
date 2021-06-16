@@ -50,7 +50,9 @@ sections:
         media_width: fifty
         subtitle: Commitment to deliver the products to the customers in timely manner
       - title: Facility
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          Use of Technology and Committed Workforce to improve the efficiency of
+          Value Chain
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
