@@ -29,7 +29,6 @@ sections:
     type: hero_section
     title: Sastry Balm
     image: /images/beige-europa.png
-    background_image: /images/Background.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
