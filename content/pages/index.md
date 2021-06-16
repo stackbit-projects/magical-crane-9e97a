@@ -41,10 +41,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Delivery
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We are committed to deliver the products to the customers in timely
+          manner
         actions:
           - label: Learn More
             url: /style-guide
