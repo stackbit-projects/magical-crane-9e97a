@@ -29,6 +29,7 @@ sections:
     type: hero_section
     title: Sastry Balm
     image: /images/beige-europa.png
+    background_image: /images/pexels-miguel-á-padriñán-1111368.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
