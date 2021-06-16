@@ -262,8 +262,8 @@ sections:
   - type: cta_section
     title: Got Queries?
     content: >
-      We are happy to help you with your sales queries. Speak with our executive
-      on Whatsapp. 
+      We are happy to help you with your Sales Queries. Speak with our executive
+      on Whatsapp.
     actions:
       - label: Button
         url: /pricing
