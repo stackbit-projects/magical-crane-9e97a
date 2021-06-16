@@ -26,7 +26,7 @@ sections:
       src="https://www.youtube-nocookie.com/embed/H7su_xBhExY?start=3&modestbranding=1&showinfo=0&rel=0&cc_load_policy=1&iv_load_policy=3&theme=light&fs=0&color=white&controls=0&disablekb=1"
       width="560" height="315" frameborder="0"></iframe>
   - type: grid_section
-    title: Our Brands
+    title: Our Partners and Brands
     subtitle: We are pleased to be associated with
     align: center
     grid_items:
