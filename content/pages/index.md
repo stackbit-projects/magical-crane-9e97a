@@ -83,6 +83,7 @@ sections:
         title_align: center
         image: /images/thinkstockphotosstk325152rkn-5bfc3b04c9e77c0026b912e2.jpg
         image_position: top
+        image_has_padding: true
     grid_cols: two
     align: center
     background_color: secondary
