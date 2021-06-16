@@ -42,8 +42,7 @@ sections:
         media_width: fifty
       - title: Delivery
         content: >
-          Our Advanced Supply Chain Management Practices in partnership with
-          Leading Logistic Providers and Committed Workforce are determined to
+          Our Logistic Providers and Committed Workforce are determined to
           deliver the last mile
         actions:
           - label: Learn More
