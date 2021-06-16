@@ -70,7 +70,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: Pharma Industry
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/iStock-637982848-724x450.jpg
