@@ -1,5 +1,5 @@
 ---
-title: S
+title: Sastry Balm
 seo:
   title: ''
   description: ''
