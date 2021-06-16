@@ -42,7 +42,7 @@ sections:
         media_width: fifty
       - title: Delivery
         content: >
-          Our Logistic Providers and Committed Workforce are determined to
+          We partner with multiple logistic providers who are committed to
           deliver the last mile
         actions: []
         image: /images/3693139.jpg
