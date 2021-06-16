@@ -94,19 +94,6 @@ sections:
     title: Services
     subtitle: We provide following
     grid_items:
-      - title: Distribution
-        title_align: left
-        content: >
-          We are building robust Supply Chains with best in class handling of
-          products
-        content_align: left
-        actions: []
-        actions_align: left
-        image: /images/product.png
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
       - title: Sales and Marketing
         title_align: left
         content: >
@@ -117,6 +104,19 @@ sections:
         actions_align: left
         image: /images/sales.png
         image_alt: Section item 2 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: Distribution
+        title_align: left
+        content: >
+          We are building robust Supply Chains with best in class handling of
+          products
+        content_align: left
+        actions: []
+        actions_align: left
+        image: /images/product.png
+        image_alt: Section item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
