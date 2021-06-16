@@ -152,7 +152,7 @@ sections:
         image_width: twenty-five
         actions:
           - label: More Info
-            url: '#'
+            url: /sastry-balm
             style: link
             has_icon: false
             icon: arrow-left
