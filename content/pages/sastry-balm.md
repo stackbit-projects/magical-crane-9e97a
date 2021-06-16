@@ -114,7 +114,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Qulaity Assured
+          - label: Quality Assured
             url: '#'
             style: link
             has_icon: false
