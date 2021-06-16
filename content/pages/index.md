@@ -140,6 +140,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
+    section_id: services
   - type: grid_section
     title: Our Partners and Brands
     subtitle: We are proud to be associated with
