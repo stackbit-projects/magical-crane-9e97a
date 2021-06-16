@@ -22,10 +22,9 @@ sections:
     padding_bottom: large
     background_color: primary
     video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/H7su_xBhExY" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe
+      src="https://www.youtube-nocookie.com/embed/H7su_xBhExY?start=3&modestbranding=1&showinfo=0&rel=0&cc_load_policy=1&iv_load_policy=3&theme=light&fs=0&color=white&controls=0&disablekb=1"
+      width="560" height="315" frameborder="0"></iframe>
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
