@@ -14,8 +14,7 @@ sections:
         content: >
           Sastry Balm is the prime product from the 'House of Sri Kodanadarama
           Ayurveda Nilayam'
-      - title: lorem-ipsum
-        content: >
+      - content: >
           Sri Kodandarama Ayurveda Nilayam is an Ayurvedic Pharmacy operated
           from 7 generations of Ayurvedic Specialists. The organisation started
           gaining popularity under the aegis of Sri. Vukkadapu Ram Mohan Rao.
