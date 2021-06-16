@@ -33,6 +33,7 @@ sections:
       - image: /images/sastrybalm logo psd.png
         image_alt: SB logo
         image_align: center
+        image_width: thirty-three
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
