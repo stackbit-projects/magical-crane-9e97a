@@ -215,7 +215,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/Phone.png
-      - title: lorem-ipsum
+      - title: Sravi Enterprises
         title_align: left
         content: >-
           ## Lorem ipsum
