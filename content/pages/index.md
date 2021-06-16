@@ -161,7 +161,7 @@ sections:
     features:
       - title: Sravi Enterprises
         subtitle: Founded in 2021. A New Company with a New Begining
-        image: images/brandon-guidelines.png
+        image: /images/CircularLogo.png
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
