@@ -76,6 +76,7 @@ sections:
         image: /images/iStock-637982848-724x450.jpg
         image_position: top
         image_width: sixty
+        image_alt: pharma
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
