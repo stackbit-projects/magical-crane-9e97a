@@ -63,7 +63,7 @@ sections:
     background_color: secondary
     section_id: statement
   - type: grid_section
-    title: Team Section
+    title: Industries
     subtitle: Grid Section Example
     actions:
       - label: Join the team
