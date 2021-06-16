@@ -3,7 +3,7 @@ title: Sastry Balm
 sections:
   - subtitle: A Product from Kodanda Ayurveda Nilayam
     features:
-      - title: lorem-ipsum
+      - title: Sastry Balm
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
