@@ -53,13 +53,7 @@ sections:
         subtitle: >-
           Use of Technology and Committed Workforce to improve the efficiency of
           Value Chain
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: /images/20946001.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
