@@ -28,6 +28,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: Sastry Balm
+    image: /images/beige-europa.png
 seo:
   title: ''
   description: ''
