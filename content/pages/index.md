@@ -27,7 +27,6 @@ sections:
       width="560" height="315" frameborder="0"></iframe>
   - type: features_section
     title: Our Statement
-    subtitle: Features Section Example
     features:
       - title: Focus
         subtitle: "'Satisfaction of Customers' and\_'Trust of Suppliers'\_\_are core focus in our operations"
