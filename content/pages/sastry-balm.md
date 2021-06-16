@@ -39,6 +39,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: /images/beige-europa.png
       - title: Description
         title_align: left
         content: >
