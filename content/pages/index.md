@@ -186,7 +186,7 @@ sections:
         content_align: right
         title_align: left
         subtitle: Prop.
-      - title: lorem-ipsum
+      - title: sales@sravie.in
         title_align: left
         content: |+
 
