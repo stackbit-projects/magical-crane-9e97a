@@ -166,5 +166,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://magical-crane-9e97a.netlify.app"
+    "domain": "https://magical-crane-9e97a.netlify.app",
+    "favicon": "/images/CircularLogo.png"
 }
