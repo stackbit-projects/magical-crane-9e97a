@@ -125,7 +125,7 @@ sections:
             type: action
           - label: 7 Working Days
             url: '#'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
