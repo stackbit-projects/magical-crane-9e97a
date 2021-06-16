@@ -64,7 +64,7 @@ sections:
     section_id: statement
   - type: grid_section
     title: Industries
-    subtitle: Grid Section Example
+    subtitle: We Serve
     actions:
       - label: Join the team
         url: /style-guide
