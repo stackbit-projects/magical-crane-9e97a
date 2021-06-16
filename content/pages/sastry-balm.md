@@ -32,7 +32,7 @@ sections:
         content_align: left
         actions:
           - label: View Products
-            url: '#'
+            url: 'https://wa.me/p/3739761242749927/916399962999'
             style: primary
             has_icon: false
             icon: arrow-left
