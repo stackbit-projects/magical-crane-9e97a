@@ -79,6 +79,35 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+      - title_align: left
+        content_align: center
+        actions:
+          - label: Quality Assured
+            url: '#'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: 7 Working Days
+            url: '#'
+            style: secondary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
       - title: Used for
         title_align: center
         content: |
@@ -104,35 +133,6 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title_align: left
-        content_align: center
-        actions:
-          - label: Quality Assured
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: 7 Working Days
-            url: '#'
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
