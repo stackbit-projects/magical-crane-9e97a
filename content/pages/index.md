@@ -11,7 +11,7 @@ sections:
         url: /pricing
         style: primary
       - label: About Us
-        url: /features
+        url: '#about'
         style: secondary
     image: /images/sastry_balm.png
     image_alt: Hero section placeholder image
