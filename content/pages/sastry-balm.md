@@ -21,6 +21,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/Background.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
