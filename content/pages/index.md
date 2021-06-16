@@ -109,7 +109,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: /images/distribution.png
+        image: /images/product.png
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
