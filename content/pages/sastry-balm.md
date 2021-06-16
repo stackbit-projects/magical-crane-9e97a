@@ -51,7 +51,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: Features
-        title_align: left
+        title_align: center
         content: >
           *   SASTRY BALM is a Premium Ayurvedic Medicine
 
