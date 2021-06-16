@@ -71,7 +71,7 @@ sections:
         style: primary
     grid_items:
       - title: Pharma Industry
-        subtitle: Co-Founder & CEO
+        subtitle: Retail & Wholesale
         title_align: center
         image: /images/iStock-637982848-724x450.jpg
         image_position: top
