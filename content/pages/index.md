@@ -27,7 +27,7 @@ sections:
       width="560" height="315" frameborder="0"></iframe>
   - type: grid_section
     title: Our Brands
-    subtitle: Grid Section Example
+    subtitle: We are pleased to be associated with
     align: center
     grid_items:
       - image: images/logo-1.svg
