@@ -75,7 +75,7 @@ sections:
         title_align: center
         image: /images/iStock-637982848-724x450.jpg
         image_position: top
-        image_width: thirty-three
+        image_width: fourty
       - title: Dianne Ameter
         subtitle: Software Engineer
         title_align: center
