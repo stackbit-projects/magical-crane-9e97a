@@ -174,6 +174,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     has_border: true
+    background_color: primary
   - type: features_section
     features:
       - title: >-
