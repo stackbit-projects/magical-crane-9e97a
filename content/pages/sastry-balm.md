@@ -55,17 +55,23 @@ sections:
         type: grid_item
       - title: Features
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   SASTRY BALM is a Premium Ayurvedic Medicine
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Provides Strong Ayurvedic Remedy
 
 
-          - Lorem ipsum
+          *   Persons suffering from Severe Cold or Blocking of Nostrils or
+          Uneasy Breathing are advised to keep small quantity of Sastry Balm in
+          a tub of hot water and inhale the vapors
 
-          - dolor sit amet
+
+          *   Can be applied and massaged smoothly over Chest and Back region in
+          Breathlessness followed by hot water fomentation
+
+
+          *   Safe to use for children
         content_align: left
         actions: []
         actions_align: left
