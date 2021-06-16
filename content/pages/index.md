@@ -29,7 +29,7 @@ sections:
     title: Our Statement
     subtitle: Features Section Example
     features:
-      - title: The Big Title For the Feature
+      - title: Focus
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
