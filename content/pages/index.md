@@ -7,7 +7,7 @@ sections:
     content: |
       We are the Tamil Nadu distribution partners for Sastry Balm
     actions:
-      - label: Try Free
+      - label: Sastry Balm
         url: /pricing
         style: primary
       - label: Learn More
