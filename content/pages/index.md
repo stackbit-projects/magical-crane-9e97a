@@ -185,6 +185,7 @@ sections:
         title: Vinod Kumar Kolli
         content_align: right
         title_align: right
+        subtitle: Prop.
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
