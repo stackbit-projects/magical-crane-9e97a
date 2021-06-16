@@ -178,12 +178,8 @@ sections:
   - type: grid_section
     title: Contact Us
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
+      - content: |
+          **
         image: /images/Name.png
         image_alt: Hanson Deck
         image_position: left
