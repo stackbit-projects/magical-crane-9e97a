@@ -250,7 +250,7 @@ sections:
       on Whatsapp.
     actions:
       - label: Talk to Sales
-        url: /pricing
+        url: 'https://wa.me/message/WFMBIY3ZA2WJN1'
         style: primary
     actions_position: bottom
     align: center
