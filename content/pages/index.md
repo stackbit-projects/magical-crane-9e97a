@@ -91,7 +91,7 @@ sections:
     enable_cards: true
     section_id: industry
   - type: grid_section
-    title: Cards Grid Section
+    title: Services
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
