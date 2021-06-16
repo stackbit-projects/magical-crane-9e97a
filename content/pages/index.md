@@ -176,7 +176,7 @@ sections:
     section_id: about
     title: About Us
   - type: grid_section
-    title: Reviews Section
+    title: Contact Us
     subtitle: Grid Section Example
     grid_items:
       - content: >-
