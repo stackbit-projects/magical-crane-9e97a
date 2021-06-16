@@ -28,7 +28,6 @@ sections:
           India. Owing to this, it is a reliable name in the market for the best
           herbal formulation in terms of Pain Balm
         actions: []
-        image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
         align: left
