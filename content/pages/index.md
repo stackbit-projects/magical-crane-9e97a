@@ -78,7 +78,7 @@ sections:
         image_width: sixty
         image_alt: pharma
         image_has_padding: true
-      - title: Dianne Ameter
+      - title: FMCG Industry
         subtitle: Software Engineer
         title_align: center
         image: /images/thinkstockphotosstk325152rkn-5bfc3b04c9e77c0026b912e2.jpg
