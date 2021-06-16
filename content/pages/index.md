@@ -69,7 +69,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    section_id: Statement
+    section_id: statement
   - type: grid_section
     title: Our Partners and Brands
     subtitle: We are proud to be associated with
