@@ -17,6 +17,8 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    content: |
+      Provide all the required details for hassle-free On-boarding
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
