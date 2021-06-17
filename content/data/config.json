@@ -47,7 +47,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "#contact",
+                "url": "/#contact",
                 "style": "link"
             },
             {
