@@ -333,7 +333,7 @@ seo:
       value: Business Page of Sravi Enterprises
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: images/CircularLogo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
