@@ -15,9 +15,9 @@ sections:
     grid_items:
       - title: Become a Partner
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: >
+          To Become a Sales Partner - Retail, Wholesale, District level
+          distributor
         content_align: center
         actions:
           - label: Get Support
