@@ -34,9 +34,8 @@ sections:
         image_has_padding: true
       - title: Complaints
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla.
+        content: |
+          If you have any complaints with us, we hear you.
         content_align: center
         actions:
           - label: Get Support
