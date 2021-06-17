@@ -332,7 +332,7 @@ sections:
 
       Provide your email and click on **Subscribe** to be the first to know
       about discounts
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
