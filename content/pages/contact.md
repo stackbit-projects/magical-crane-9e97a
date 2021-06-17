@@ -63,7 +63,7 @@ sections:
           Get Started to
         content_align: center
         actions:
-          - label: Get Support
+          - label: Chat
             url: /general-enquiries
             style: primary
             has_icon: true
