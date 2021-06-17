@@ -1,7 +1,7 @@
 ---
 title: Refund Policy
 seo:
-  title: Theme Style Guide
+  title: Refund Policy
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
