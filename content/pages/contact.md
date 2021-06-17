@@ -16,9 +16,9 @@ sections:
       - title: Feedback
         title_align: center
         content: |
-          Have any feedback? Have any complaints? 
+          Have any feedback? Have any complaints?
 
-          We Hear You
+          We Hear Your
         content_align: center
         actions:
           - label: Feedback
