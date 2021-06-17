@@ -184,7 +184,7 @@ sections:
           endeavour to become a notable player in the Distribution segment of
           the Supply Chain.
     feature_padding_vert: small
-    background_color: primary
+    background_color: secondary
     section_id: about
     title: About Us
   - section_id: locations
