@@ -324,14 +324,14 @@ sections:
     subtitle: Newsletter
     title_align: center
     content: >
-      Every Week, we will be sending the updated Product Catalogue with us. 
+      Every Week, we will be sending the updated Product Catalogue with us.
 
 
-      We offer attractive discounts every week
+      We offer attractive discounts on our products every week.
 
 
       Provide your email and click on **Subscribe** to be the first to know
-      about discounts
+      product updates
     content_align: center
     form_position: bottom
     form_width: fifty
