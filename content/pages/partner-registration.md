@@ -45,8 +45,7 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        options:
-          - First Name
+        options: []
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
