@@ -40,7 +40,7 @@ sections:
           distributor
 
 
-          Register
+          Please
         content_align: center
         actions:
           - label: Register
