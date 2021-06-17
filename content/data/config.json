@@ -124,7 +124,7 @@
         "content": "&copy; Sravi Enterprises. All rights reserved"
     },
     "announcement": {
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Every Week, We will be offering attractive discounts on our Products. Subscribe to receive our Newsletter,  [**Subscribe**](https://sravie.in/#subscribe)\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
