@@ -31,7 +31,7 @@ sections:
       Upon registering, we will share you a customer self-service portal link.
 
 
-      By Self-Service, We mean, 
+      By self-service, we mean.
 
 
       *   Customer can directly raise Orders
