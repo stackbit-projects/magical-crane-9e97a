@@ -3,7 +3,7 @@ title: Registration
 sections:
   - section_id: register
     title: Registration
-    subtitle: lorem-ipsum
+    subtitle: Provide all the required details for hassle-free Partner Onboarding
     actions: []
     image_alt: lorem-ipsum
     media_position: top
