@@ -45,7 +45,6 @@ sections:
       - input_type: text
         name: Name
         label: Name
-        default_value: First Name
         options:
           - First Name
         is_required: false
