@@ -2,7 +2,7 @@
 title: Refund Policy
 seo:
   title: Refund Policy
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Sravi Enterprises Refund Policy
   extra:
     - name: 'og:type'
       value: website
