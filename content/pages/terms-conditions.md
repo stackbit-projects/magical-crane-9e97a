@@ -22,6 +22,8 @@ seo:
 layout: page
 ---
 **Privacy Policy**
+
+
 The terms "We" / "Us" / "Our"/”Company” individually and collectively refer to  Sravi Enterprises,Chennai and the terms "You" /"Your" / "Yourself" refer to the users.
 This Privacy Policy is an electronic record in the form of an electronic contract formed under the Information Technology Act, 2000 and the rules made thereunder and the amended provisions pertaining to electronic documents / records in various statutes as amended by the Information Technology Act, 2000. This Privacy Policy does not require any physical, electronic or digital signature.
 This Privacy Policy is a legally binding document between you and Sravi Enterprises,Chennai. The terms of this Privacy Policy will be effective upon your acceptance of the same (directly or indirectly in electronic form, by clicking on the I accept tab or by use of the website or by other means) and will govern the relationship between you and Sravi Enterprises,Chennai for your use of the website “[www.sravie.in](http://www.sravie.in)”.
@@ -34,7 +36,7 @@ All required information is service dependent and we may use the above said user
 Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 **COOKIES** To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
-**LINKS TO THE OTHER SITES **Our policy discloses the privacy practices for our own web site only. Our site provides links to other websites also that are beyond our control. We shall in no way be responsible for your use of such sites.
+\*\*LINKS TO THE OTHER SITES \*\*Our policy discloses the privacy practices for our own web site only. Our site provides links to other websites also that are beyond our control. We shall in no way be responsible for your use of such sites.
 **INFORMATION SHARING** We shares the sensitive personal information to any third party without obtaining the prior consent of the user in the following limited circumstances:
 (a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
 (b) We proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
@@ -50,7 +52,6 @@ Near Kolapakkam Bus Stop, Kolapakkam, Chennai,
 Tamil Nadu, PIN: 600 138
 Email: <support@sravie.in> Ph:  6399962999
 \--------------------------------------------------------------------------------------------------
-
 
 **TERMS AND CONDITIONS**
 The terms "We" / "Us" / "Our"/”Company” individually and collectively refer to \*\*Sravi Enterprises,Chennai \*\*and the terms "Visitor” ”User” refer to the users.
