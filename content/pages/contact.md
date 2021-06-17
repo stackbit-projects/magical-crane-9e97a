@@ -20,7 +20,7 @@ sections:
           distributor
         content_align: center
         actions:
-          - label: Get Support
+          - label: Register
             url: /general-enquiries
             style: primary
             has_icon: true
