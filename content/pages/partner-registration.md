@@ -43,7 +43,7 @@ sections:
     form_action: register
     form_fields:
       - input_type: text
-        name: First Name
+        name: Name
         label: Name
         default_value: First Name
         options:
