@@ -129,7 +129,7 @@
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
-        "anncmnt_id": "register"
+        "anncmnt_id": "subscribe"
     },
     "domain": "https://sravie.in",
     "favicon": "/images/CircularLogo.png"
