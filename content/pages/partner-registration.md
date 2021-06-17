@@ -43,7 +43,7 @@ sections:
     form_action: register
     form_fields:
       - input_type: text
-        name: Name
+        name: First Name
         label: First Name
         options: []
         is_required: false
