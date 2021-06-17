@@ -20,7 +20,6 @@ sections:
     content: |
       Provide all the required details for hassle-free On-boarding
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
     content: >-
