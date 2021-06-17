@@ -28,6 +28,18 @@ sections:
       There are some mandatory fields. Please fill them.
 
 
+      Upon registering, we will share you a customer self-service portal link.
+
+
+      By Self-Service, We mean, 
+
+
+      *   Customer can directly raise Orders
+
+
+      *   A dedicated executive for quick resolution of the your queries
+
+
       We value privacy of our customers. Please read our [privacy
       policy](https://sravie.in/privacy-policy) for more details
 
