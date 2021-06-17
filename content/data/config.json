@@ -126,7 +126,7 @@
     "announcement": {
         "has_anncmnt": true,
         "anncmnt_content": "Every Week, We will be offering attractive discounts on our Products. Subscribe to our Newsletter,  **Subscribe**\n",
-        "anncmnt_align": "left",
+        "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
