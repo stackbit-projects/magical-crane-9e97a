@@ -191,7 +191,7 @@ sections:
     title: Our Offices
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Sravi Enterprises
         subtitle: lorem-ipsum
         title_align: left
         content: >-
