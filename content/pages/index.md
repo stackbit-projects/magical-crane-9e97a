@@ -319,7 +319,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-  - section_id: lorem-ipsum
+  - section_id: Subscribe
     title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
