@@ -1,5 +1,5 @@
 ---
-title: Re
+title: Registration
 sections: []
 seo:
   title: ''
