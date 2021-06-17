@@ -2,7 +2,7 @@
 title: Registration
 sections:
   - section_id: register
-    title: lorem-ipsum
+    title: Registration
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
