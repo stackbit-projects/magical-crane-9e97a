@@ -47,7 +47,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/#touch",
+                "url": "/contact#touch",
                 "style": "link"
             },
             {
