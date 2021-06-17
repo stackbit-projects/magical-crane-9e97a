@@ -169,74 +169,6 @@ sections:
     background_color: primary
     section_id: brands
     actions: []
-  - type: features_section
-    features:
-      - title: Sravi Enterprises
-        subtitle: Founded in 2021. A New Company with a New Begining
-        image: /images/CircularLogo.png
-        image_alt: Brandon Guidelines
-        media_position: right
-        media_width: thirty-three
-        content: >
-          We are a proprietorship firm with Vinod Kumar K as the owner of the
-          Organisation. The Organisation believes resilience, hard work and
-          technology are the foundation principles of its operations. We
-          endeavour to become a notable player in the Distribution segment of
-          the Supply Chain.
-    feature_padding_vert: small
-    background_color: secondary
-    section_id: about
-    title: About Us
-  - section_id: locations
-    title: Our Offices
-    actions: []
-    grid_items:
-      - title: Sravi Enterprises
-        subtitle: Chennai
-        title_align: center
-        content: >
-          Vatsalya, Plot No: 21, Padma Avenue, Near Kolapakkam Bus Stop,
-          Kolapakkam, Chennai, Tamil Nadu, PIN: 600128
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-      - title: Sravi Enterprises
-        subtitle: Mangalagiri
-        title_align: center
-        content: >
-          8-697, BEHIND VEGETABLE MARKET, Mangalagiri, Guntur, Andhra Pradesh,
-          522503
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: true
-    align: center
-    padding_top: none
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
   - type: grid_section
     title: Contact Us
     grid_items:
@@ -305,6 +237,74 @@ sections:
     align: center
     background_color: primary
     section_id: contact
+  - type: features_section
+    features:
+      - title: Sravi Enterprises
+        subtitle: Founded in 2021. A New Company with a New Begining
+        image: /images/CircularLogo.png
+        image_alt: Brandon Guidelines
+        media_position: right
+        media_width: thirty-three
+        content: >
+          We are a proprietorship firm with Vinod Kumar K as the owner of the
+          Organisation. The Organisation believes resilience, hard work and
+          technology are the foundation principles of its operations. We
+          endeavour to become a notable player in the Distribution segment of
+          the Supply Chain.
+    feature_padding_vert: small
+    background_color: secondary
+    section_id: about
+    title: About Us
+  - section_id: locations
+    title: Our Offices
+    actions: []
+    grid_items:
+      - title: Sravi Enterprises
+        subtitle: Chennai
+        title_align: center
+        content: >
+          Vatsalya, Plot No: 21, Padma Avenue, Near Kolapakkam Bus Stop,
+          Kolapakkam, Chennai, Tamil Nadu, PIN: 600128
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+      - title: Sravi Enterprises
+        subtitle: Mangalagiri
+        title_align: center
+        content: >
+          8-697, BEHIND VEGETABLE MARKET, Mangalagiri, Guntur, Andhra Pradesh,
+          522503
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: true
+    align: center
+    padding_top: none
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: cta_section
     title: Got Queries?
     content: >
