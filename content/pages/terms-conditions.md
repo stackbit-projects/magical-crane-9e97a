@@ -65,8 +65,7 @@ Near Kolapakkam Bus Stop, Kolapakkam, Chennai,
 Tamil Nadu, PIN: 600 138
 Email: <support@sravie.in> Ph:  6399962999
 
-
-\<hr />
+\------------------------------------------------
 
 **TERMS AND CONDITIONS**
 
