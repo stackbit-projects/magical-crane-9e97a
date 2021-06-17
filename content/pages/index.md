@@ -320,7 +320,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - section_id: subscribe
-    title: Subscribe
+    title: Join the Club
     subtitle: Newsletter
     title_align: center
     content: >
