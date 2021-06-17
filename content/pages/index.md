@@ -209,7 +209,7 @@ sections:
         type: grid_item
     grid_cols: two
     grid_gap_vert: small
-    grid_gap_horiz: medium
+    grid_gap_horiz: small
     enable_cards: false
     align: center
     padding_top: none
