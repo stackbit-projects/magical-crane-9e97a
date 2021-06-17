@@ -49,7 +49,7 @@ sections:
         is_required: false
         type: form_field
         default_value: First Name
-    submit_label: lorem-ipsum
+    submit_label: Register
     align_vert: top
     padding_top: medium
     padding_bottom: medium
