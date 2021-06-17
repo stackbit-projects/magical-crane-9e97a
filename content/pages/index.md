@@ -321,7 +321,7 @@ sections:
     background_color: secondary
   - section_id: subscribe
     title: Subscribe
-    subtitle: lorem-ipsum
+    subtitle: Newsletter
     title_align: left
     content: >-
       ## Lorem ipsum
