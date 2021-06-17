@@ -44,7 +44,7 @@ Such information will not be considered as sensitive if it is freely available a
 **COOKIES** To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
 Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
 
-**\*\*\*\*LINKS TO THE OTHER SITES \*\*\*\* **Our policy discloses the privacy practices for our own web site only. Our site provides links to other websites also that are beyond our control. We shall in no way be responsible for your use of such sites.
+\*\*\*\*\*\*LINKS TO THE OTHER SITES \*\*\*\* \*\*Our policy discloses the privacy practices for our own web site only. Our site provides links to other websites also that are beyond our control. We shall in no way be responsible for your use of such sites.
 
 **INFORMATION SHARING** We shares the sensitive personal information to any third party without obtaining the prior consent of the user in the following limited circumstances:
 
@@ -64,7 +64,9 @@ Vatsalya, Plot No: 21, Padma Avenue
 Near Kolapakkam Bus Stop, Kolapakkam, Chennai,
 Tamil Nadu, PIN: 600 138
 Email: <support@sravie.in> Ph:  6399962999
-\--------------------------------------------------------------------------------------------------
+
+
+\<hr />
 
 **TERMS AND CONDITIONS**
 
