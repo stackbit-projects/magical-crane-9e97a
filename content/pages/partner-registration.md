@@ -40,7 +40,7 @@ sections:
     form_layout: stacked
     enable_card: false
     form_id: register
-    form_action: lorem-ipsum
+    form_action: register
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
