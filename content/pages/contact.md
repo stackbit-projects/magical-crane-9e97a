@@ -54,9 +54,8 @@ sections:
         image_has_padding: true
       - title: Sales Queries
         title_align: center
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
+        content: |
+          Get you Sales Queries answered instantly by our executive
         content_align: center
         actions:
           - label: Get Support
