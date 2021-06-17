@@ -44,7 +44,7 @@ sections:
     form_fields:
       - input_type: text
         name: First Name
-        label: First Name
+        label: Name
         default_value: First Name
         options:
           - First Name
