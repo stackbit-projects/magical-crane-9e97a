@@ -235,7 +235,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: large
     align: center
-    background_color: primary
+    background_color: secondary
     section_id: contact
   - type: features_section
     features:
