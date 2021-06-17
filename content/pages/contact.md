@@ -29,7 +29,7 @@ sections:
         actions_align: center
         image: /images/employees.png
         image_alt: Partnering and sponsorships icon
-        image_position: top
+        image_position: bottom
         image_align: center
         image_has_padding: true
       - title: Feedback
