@@ -32,7 +32,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: Complaints
+      - title: Feedback
         title_align: center
         content: |
           If you have any complaints with us, we hear you.
