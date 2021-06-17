@@ -11,6 +11,7 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
+    section_id: touch
   - type: grid_section
     grid_items:
       - title: Feedback
