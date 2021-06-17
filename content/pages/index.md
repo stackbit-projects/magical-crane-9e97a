@@ -169,74 +169,6 @@ sections:
     background_color: primary
     section_id: brands
     actions: []
-  - type: grid_section
-    title: Contact Us
-    grid_items:
-      - image: /images/Name.png
-        image_alt: contact-name
-        image_position: left
-        image_width: thirty-three
-        title: Vinod Kumar Kolli
-        content_align: right
-        title_align: left
-        subtitle: Prop.
-      - title: sales@sravie.in
-        title_align: left
-        content: |+
-
-
-        content_align: right
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: contact-mail
-        image_position: left
-        image_width: thirty-three
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/Email.png
-      - title: +91-6399962999
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: thirty-three
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/Phone.png
-      - title: Sravi Enterprises
-        title_align: left
-        content: |
-          Vatsalya, 
-          Plot No: 21,
-          Padma Avenue,
-          Near Kolapakkam Bus Stop,
-          Kolapakkam,
-          Chennai, 
-          Tamil Nadu
-          PIN: 600 128
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: left
-        image_width: thirty-three
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: /images/Address.png
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
-    section_id: contact
   - type: features_section
     features:
       - title: Sravi Enterprises
@@ -305,6 +237,74 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: grid_section
+    title: Contact Us
+    grid_items:
+      - image: /images/Name.png
+        image_alt: contact-name
+        image_position: left
+        image_width: thirty-three
+        title: Vinod Kumar Kolli
+        content_align: right
+        title_align: left
+        subtitle: Prop.
+      - title: sales@sravie.in
+        title_align: left
+        content: |+
+
+
+        content_align: right
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: contact-mail
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/Email.png
+      - title: +91-6399962999
+        title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/Phone.png
+      - title: Sravi Enterprises
+        title_align: left
+        content: |
+          Vatsalya, 
+          Plot No: 21,
+          Padma Avenue,
+          Near Kolapakkam Bus Stop,
+          Kolapakkam,
+          Chennai, 
+          Tamil Nadu
+          PIN: 600 128
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: left
+        image_width: thirty-three
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: /images/Address.png
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
+    align: center
+    background_color: secondary
+    section_id: contact
   - type: cta_section
     title: Got Queries?
     content: >
