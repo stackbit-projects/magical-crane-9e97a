@@ -47,7 +47,7 @@ sections:
         label: First Name
         default_value: First Name
         options:
-          - lorem-ipsum
+          - First Name
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
