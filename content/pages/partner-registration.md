@@ -21,17 +21,19 @@ sections:
       Provide all the required details for hassle-free On-boarding
   - section_id: lorem-ipsum
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Registration Form
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      There are some mandatory fields. Please fill them.
 
 
-      - Lorem ipsum
+      We value privacy of our customers. Please read our [privacy
+      policy](https://sravie.in/privacy-policy) for more details
 
-      - dolor sit amet
+
+      By clicking on Submit, You agree to have read our [Terms and
+      Conditions](https://sravie.in/terms-conditions)
     content_align: left
     form_position: bottom
     form_width: fifty
