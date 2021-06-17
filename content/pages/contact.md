@@ -13,25 +13,6 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Become a Partner
-        title_align: center
-        content: >
-          To become a Sales Partner with us- Retail, Wholesale, District level
-          distributor
-        content_align: center
-        actions:
-          - label: Register
-            url: /general-enquiries
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        actions_align: center
-        image: /images/employees.png
-        image_alt: Partner
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Feedback
         title_align: center
         content: |
@@ -49,6 +30,25 @@ sections:
         actions_align: center
         image: /images/review.png
         image_alt: Help and support icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+      - title: Become a Partner
+        title_align: center
+        content: >
+          To become a Sales Partner with us- Retail, Wholesale, District level
+          distributor
+        content_align: center
+        actions:
+          - label: Register
+            url: /general-enquiries
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        actions_align: center
+        image: /images/employees.png
+        image_alt: Partner
         image_position: top
         image_align: center
         image_has_padding: true
