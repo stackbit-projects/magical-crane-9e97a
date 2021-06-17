@@ -40,7 +40,7 @@ sections:
           We Hear You
         content_align: center
         actions:
-          - label: Get Support
+          - label: Feedback
             url: /general-enquiries
             style: secondary
             has_icon: true
