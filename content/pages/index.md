@@ -322,7 +322,7 @@ sections:
   - section_id: subscribe
     title: Subscribe
     subtitle: Newsletter
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
