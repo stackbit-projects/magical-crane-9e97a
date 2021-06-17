@@ -35,7 +35,9 @@ sections:
       - title: Feedback
         title_align: center
         content: |
-          If you have any complaints with us, we hear you.
+          Have any feedback? Have any complaints? 
+
+          We Hear You
         content_align: center
         actions:
           - label: Get Support
