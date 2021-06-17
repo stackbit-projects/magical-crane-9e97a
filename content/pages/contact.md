@@ -28,7 +28,7 @@ sections:
             icon_position: right
         actions_align: center
         image: /images/employees.png
-        image_alt: Partnering and sponsorships icon
+        image_alt: Partner
         image_position: top
         image_align: center
         image_has_padding: true
