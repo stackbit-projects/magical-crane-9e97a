@@ -48,6 +48,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: First
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
