@@ -20,8 +20,7 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Sravi Enterprises Refund Policy
 layout: page
 ---
 
