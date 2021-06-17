@@ -320,7 +320,7 @@ sections:
     padding_bottom: large
     background_color: secondary
   - section_id: subscribe
-    title: Sub
+    title: Subscribe
     subtitle: lorem-ipsum
     title_align: left
     content: >-
