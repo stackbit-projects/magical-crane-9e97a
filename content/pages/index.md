@@ -189,7 +189,6 @@ sections:
     title: About Us
   - section_id: locations
     title: Our Offices
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
