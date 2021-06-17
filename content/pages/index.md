@@ -334,7 +334,7 @@ sections:
       product updates
     content_align: center
     form_position: bottom
-    form_width: fifty
+    form_width: fourty
     form_layout: inline
     enable_card: true
     form_id: email-subscription
