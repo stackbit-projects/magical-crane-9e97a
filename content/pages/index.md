@@ -194,9 +194,8 @@ sections:
       - title: Sravi Enterprises
         subtitle: Chennai
         title_align: left
-        content: |
+        content: >
           Vatsalya, Plot No: 21, Padma Avenue, Near Kolapakkam Bus Stop,
-
           Kolapakkam, Chennai, Tamil Nadu, PIN: 600128
         content_align: left
         actions: []
