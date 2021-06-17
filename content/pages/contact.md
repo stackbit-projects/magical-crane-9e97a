@@ -16,7 +16,7 @@ sections:
       - title: Become a Partner
         title_align: center
         content: >
-          To Become a Sales Partner - Retail, Wholesale, District level
+          To become a Sales Partner with us- Retail, Wholesale, District level
           distributor
         content_align: center
         actions:
