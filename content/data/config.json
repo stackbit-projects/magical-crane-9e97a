@@ -13,7 +13,7 @@
         "primary_nav_links": [
             {
                 "label": "Our Statement",
-                "url": "#statement",
+                "url": "/#statement",
                 "style": "link"
             },
             {
