@@ -341,7 +341,7 @@ sections:
     form_action: Subscribe
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: email
         label: Email
         default_value: lorem-ipsum
         options: []
