@@ -340,7 +340,7 @@ sections:
     form_id: email-subscription
     form_action: Subscribe
     form_fields:
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: Email
         default_value: lorem-ipsum
