@@ -192,7 +192,7 @@ sections:
     actions: []
     grid_items:
       - title: Sravi Enterprises
-        subtitle: lorem-ipsum
+        subtitle: Chennai
         title_align: left
         content: >-
           ## Lorem ipsum
