@@ -1,7 +1,7 @@
 ---
 title: Registration
 sections:
-  - section_id: lorem-ipsum
+  - section_id: register
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
