@@ -321,7 +321,7 @@ sections:
     background_color: secondary
 seo:
   title: Sravi Enterprises
-  description: The preview of the DIY theme
+  description: Business Page of Sravi Enterprises
   extra:
     - name: 'og:type'
       value: website
