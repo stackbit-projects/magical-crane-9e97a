@@ -125,7 +125,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Every Week, We will be offering attractive discounts on our Products. Register to receive our Newsletter, [ **Register**](https://www.sravie.in/register)\n",
+        "anncmnt_content": "Every Week, We will be offering attractive discounts on our Products. Register to receive our Newsletter,  [**Register**](https://www.sravie.in/#subscribe)\n",
         "anncmnt_align": "center",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
