@@ -330,7 +330,7 @@ seo:
       value: Sravi Enterprises
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Business Page of Sravi Enterprises
       keyName: property
     - name: 'og:image'
       value: images/diy-preview.png
