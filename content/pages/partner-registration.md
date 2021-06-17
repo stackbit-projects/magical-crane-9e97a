@@ -35,7 +35,7 @@ sections:
       By clicking on Submit, You agree to have read our [Terms and
       Conditions](https://sravie.in/terms-conditions)
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: stacked
     enable_card: false
