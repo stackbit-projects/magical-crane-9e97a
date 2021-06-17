@@ -209,7 +209,7 @@ sections:
         type: grid_item
       - title: Sravi Enterprises
         subtitle: Mangalagiri
-        title_align: left
+        title_align: center
         content: >
           8-697, BEHIND VEGETABLE MARKET, Mangalagiri, Guntur, Andhra Pradesh,
           522503
