@@ -195,13 +195,27 @@ sections:
         subtitle: Chennai
         title_align: left
         content: |
-          Vatsalya, 
+          Vatsalya,
+
+
           Plot No: 21,
+
+
           Padma Avenue,
+
+
           Near Kolapakkam Bus Stop,
+
+
           Kolapakkam,
-          Chennai, 
+
+
+          Chennai,
+
+
           Tamil Nadu
+
+
           PIN: 600128
         content_align: left
         actions: []
