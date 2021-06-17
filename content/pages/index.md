@@ -187,7 +187,7 @@ sections:
     background_color: secondary
     section_id: about
     title: About Us
-  - section_id: office
+  - section_id: locations
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
