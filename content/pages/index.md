@@ -323,17 +323,15 @@ sections:
     title: Subscribe
     subtitle: Newsletter
     title_align: center
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Every Week, we will be sending the updated Product Catalogue with us. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      We offer attractive discounts every week
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Provide your email and click on **Subscribe** to be the first to know
+      about discounts
     content_align: left
     form_position: bottom
     form_width: fifty
