@@ -345,7 +345,7 @@ sections:
         label: Email
         default_value: Email Address
         options: []
-        is_required: true
+        is_required: false
         type: form_field
     submit_label: Subscribe
     align_vert: top
