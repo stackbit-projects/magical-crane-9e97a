@@ -28,7 +28,7 @@
             },
             {
                 "label": "Brands",
-                "url": "#brands",
+                "url": "/#brands",
                 "style": "link"
             }
         ],
