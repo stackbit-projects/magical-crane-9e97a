@@ -128,7 +128,7 @@ sections:
         type: grid_item
         subtitle: Access Portal
       - title: Step 2
-        subtitle: lorem-ipsum
+        subtitle: Pick Items and Place Order
         title_align: left
         content: >-
           ## Lorem ipsum
