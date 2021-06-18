@@ -26,6 +26,7 @@ sections:
       width="640" height="968" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
     image: /images/classic/feature-2.png
+    background_image: /images/classic/feature-2.png
 seo:
   title: ''
   description: ''
