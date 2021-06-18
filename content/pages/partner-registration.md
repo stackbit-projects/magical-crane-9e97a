@@ -57,7 +57,7 @@ sections:
   - section_id: lorem-ipsum
     actions: []
     grid_items:
-      - title: Step 1
+      - title: 'Step '
         title_align: left
         content: >-
           ## Lorem ipsum
