@@ -111,7 +111,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Registration Process
-  - section_id: lorem-ipsum
+  - section_id: Buying
     title: 'How to Buy? '
     actions: []
     grid_items:
