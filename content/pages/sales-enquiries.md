@@ -4,7 +4,7 @@ sections:
   - section_id: register
     actions: []
     image_alt: register
-    media_position: right
+    media_position: bottom
     media_width: fifty
     align: left
     padding_top: small
