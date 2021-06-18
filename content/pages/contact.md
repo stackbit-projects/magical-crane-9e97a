@@ -45,7 +45,7 @@ sections:
         content_align: center
         actions:
           - label: Register
-            url: partner-registration
+            url: /partner-registration
             style: primary
             has_icon: true
             icon: arrow-right
