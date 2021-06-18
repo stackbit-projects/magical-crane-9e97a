@@ -39,9 +39,6 @@ sections:
         content: >
           To become a Sales Partner with us- Retail, Wholesale, District level
           distributor
-
-
-          Please
         content_align: center
         actions:
           - label: Register
