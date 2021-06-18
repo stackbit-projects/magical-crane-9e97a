@@ -13,6 +13,7 @@ sections:
       width="640" height="986" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
     media_position: bottom
+    title: We hear your
 seo:
   title: General Enquiries
   description: This is the general enquiries page
