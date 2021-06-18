@@ -53,6 +53,7 @@ sections:
       width="640" height="968" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
     background_image: /images/classic/feature-2.png
+    title: Partner Registration
 seo:
   title: ''
   description: ''
