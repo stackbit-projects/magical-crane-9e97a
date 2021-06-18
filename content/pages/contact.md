@@ -59,9 +59,7 @@ sections:
       - title: Sales Queries
         title_align: center
         content: |
-          Get you Sales Queries answered instantly by our executive
-
-          Get Started to
+          Get you Sales Queries answered by asking for a Schedule
         content_align: center
         actions:
           - label: Chat
