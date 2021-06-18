@@ -111,8 +111,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Registration Process
-  - section_id: Buying
-    title: 'How to Buy? '
+  - title: 'How to Buy? '
     actions: []
     grid_items:
       - title: Step 1
