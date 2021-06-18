@@ -16,10 +16,21 @@ sections:
     background_image_position: left top
     background_image_repeat: no-repeat
     type: hero_section
-    content: |
+    content: |+
       # Registration
 
       Provide all the required details for hassle-free On-boarding
+
+
+
+
+
+
+
+
+
+
+
     video_embed_html: >-
       <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSf7rHsgSGVbml78GPDG1AfMKsHSmbJXIEI-0sgE5snTvTovVw/viewform?embedded=true"
