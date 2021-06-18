@@ -25,59 +25,6 @@ sections:
       src="https://docs.google.com/forms/d/e/1FAIpQLSf7rHsgSGVbml78GPDG1AfMKsHSmbJXIEI-0sgE5snTvTovVw/viewform?embedded=true"
       width="640" height="968" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
-  - section_id: lorem-ipsum
-    title_align: left
-    content: >
-      ## Registration Form
-
-
-      There are some mandatory fields. Please fill them.
-
-
-      Upon registering, we will share you a customer self-service portal link.
-
-
-      By self-service, we mean.
-
-
-      *   Customer can directly raise Orders
-
-
-      *   A dedicated executive for quick resolution of the your queries
-
-
-      We value privacy of our customers. Please read our [privacy
-      policy](https://sravie.in/privacy-policy) for more details
-
-
-      By clicking on Submit, You agree to have read our [Terms and
-      Conditions](https://sravie.in/terms-conditions)
-    content_align: left
-    form_position: right
-    form_width: fifty
-    form_layout: stacked
-    enable_card: false
-    form_id: register
-    form_action: register
-    form_fields:
-      - input_type: text
-        name: First Name
-        label: First Name
-        options: []
-        is_required: false
-        type: form_field
-        default_value: First Name
-    submit_label: Register
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
 seo:
   title: ''
   description: ''
