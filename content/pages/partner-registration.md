@@ -2,7 +2,6 @@
 title: Registration
 sections:
   - section_id: register
-    title: Registration
     actions: []
     image_alt: lorem-ipsum
     media_position: right
