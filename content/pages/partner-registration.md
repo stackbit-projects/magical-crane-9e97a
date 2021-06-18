@@ -82,7 +82,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: Pick Territory & Negotiation
+        subtitle: Pick Territory & Negotiate Price
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
