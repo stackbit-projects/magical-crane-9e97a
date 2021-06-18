@@ -3,7 +3,7 @@ title: Registration
 sections:
   - section_id: register
     actions: []
-    image_alt: lorem-ipsum
+    image_alt: register
     media_position: bottom
     media_width: fifty
     align: left
