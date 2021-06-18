@@ -127,7 +127,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: Access Portal
-      - title: lorem-ipsum
+      - title: Step 2
         subtitle: lorem-ipsum
         title_align: left
         content: >-
