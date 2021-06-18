@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     content: >
-      #### Benefits
+      **Benefits**
 
 
       *   Predetermined discounted rates with our Products
@@ -33,7 +33,7 @@ sections:
       *   Dedicated Sales Executive to answer your queries
 
 
-      #### Conditions
+      **Conditions**
 
 
       *   We don't take any deposits for the products from Sastry Balm
