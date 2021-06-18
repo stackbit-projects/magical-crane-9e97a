@@ -83,7 +83,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: Pick Territory & Negotiate Price
-      - title: lorem-ipsum
+      - title: Step 3
         subtitle: lorem-ipsum
         title_align: left
         content: >-
