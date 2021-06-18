@@ -116,7 +116,6 @@ sections:
     actions: []
     grid_items:
       - title: Step 1
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
