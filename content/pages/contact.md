@@ -60,7 +60,7 @@ sections:
         content_align: center
         actions:
           - label: Get Started
-            url: /general-enquiries
+            url: /sales-enquiries
             style: primary
             has_icon: true
             icon: arrow-right
