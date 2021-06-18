@@ -112,7 +112,7 @@ sections:
     type: grid_section
     title: Registration Process
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: How to Buy
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
