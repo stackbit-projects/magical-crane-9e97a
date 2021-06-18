@@ -62,7 +62,7 @@ sections:
           Get you Sales Queries answered by asking for a Schedule
         content_align: center
         actions:
-          - label: Chat
+          - label: Get Started
             url: /general-enquiries
             style: primary
             has_icon: true
