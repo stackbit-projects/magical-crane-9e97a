@@ -55,7 +55,6 @@ sections:
     background_image: /images/classic/feature-2.png
     title: Partner Registration
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
