@@ -152,6 +152,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Step 3
+        subtitle: Payment Settlement
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
