@@ -153,7 +153,7 @@ sections:
         type: grid_item
         title: Step 3
         subtitle: Payment Settlement
-      - title: Delivery
+      - title: Step 4
         subtitle: lorem-ipsum
         title_align: left
         content: >-
