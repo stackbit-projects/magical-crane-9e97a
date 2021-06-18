@@ -14,7 +14,7 @@ sections:
     background_image_opacity: 0.5
     background_image_size: contain
     background_image_position: center center
-    background_image_repeat: no-repeat
+    background_image_repeat: repeat
     type: hero_section
     content: |
       # Registration
