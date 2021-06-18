@@ -70,7 +70,7 @@ sections:
         image_has_padding: false
         type: grid_item
         subtitle: Fill Registration
-      - title: lorem-ipsum
+      - title: Step 2
         subtitle: lorem-ipsum
         title_align: left
         content: >-
