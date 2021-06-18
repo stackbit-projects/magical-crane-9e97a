@@ -85,7 +85,7 @@ sections:
         subtitle: Pick Territory & Negotiate Price
       - title: Step 3
         subtitle: Onboarding
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
