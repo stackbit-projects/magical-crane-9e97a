@@ -84,7 +84,7 @@ sections:
         type: grid_item
         subtitle: Pick Territory & Negotiate Price
       - title: Step 3
-        subtitle: Onboarding
+        subtitle: Onboarding Partner
         title_align: center
         content_align: left
         actions: []
