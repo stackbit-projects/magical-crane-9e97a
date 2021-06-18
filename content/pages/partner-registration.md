@@ -11,7 +11,7 @@ sections:
     padding_bottom: none
     has_border: false
     background_color: none
-    background_image_opacity: 0.5
+    background_image_opacity: 0.6
     background_image_size: auto
     background_image_position: left top
     background_image_repeat: no-repeat
