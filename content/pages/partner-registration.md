@@ -71,7 +71,6 @@ sections:
         type: grid_item
         subtitle: Fill Registration
       - title: Step 2
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
