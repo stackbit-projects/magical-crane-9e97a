@@ -50,7 +50,7 @@ sections:
     video_embed_html: >-
       <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSf6ao2P59fOjckCJnAqDiu2w2zGUMCJKGy47tFh5CASZ6kVvA/viewform?embedded=true"
-      width="640" height="700" frameborder="0" marginheight="0"
+      width="640" height="1100" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
     background_image: /images/classic/feature-2.png
     title: Partner Registration
