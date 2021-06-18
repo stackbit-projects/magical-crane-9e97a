@@ -25,6 +25,7 @@ sections:
       src="https://docs.google.com/forms/d/e/1FAIpQLSf7rHsgSGVbml78GPDG1AfMKsHSmbJXIEI-0sgE5snTvTovVw/viewform?embedded=true"
       width="640" height="968" frameborder="0" marginheight="0"
       marginwidth="0">Loading…</iframe>
+    image: /images/classic/feature-2.png
 seo:
   title: ''
   description: ''
