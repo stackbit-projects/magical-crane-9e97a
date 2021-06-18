@@ -154,7 +154,6 @@ sections:
         title: Step 3
         subtitle: Payment Settlement
       - title: Step 4
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
