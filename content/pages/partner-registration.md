@@ -129,7 +129,7 @@ sections:
         subtitle: Access Portal
       - title: Step 2
         subtitle: Pick Items and Place Order
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
