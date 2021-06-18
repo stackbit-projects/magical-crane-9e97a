@@ -84,7 +84,7 @@ sections:
         type: grid_item
         subtitle: Pick Territory & Negotiate Price
       - title: Step 3
-        subtitle: lorem-ipsum
+        subtitle: Onboarding
         title_align: left
         content: >-
           ## Lorem ipsum
