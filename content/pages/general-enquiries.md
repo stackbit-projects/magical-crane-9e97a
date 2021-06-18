@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    background_color: none
+    background_color: primary
     video_embed_html: >-
       <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSdfLDwhzBqTz4zxtAmP4WZWPLaWn_Vdt1uEK1KHGXBo2etL3w/viewform?embedded=true"
