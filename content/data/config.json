@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Industries",
-                "url": "/#industry",
-                "style": "link"
-            },
-            {
                 "label": "Services",
                 "url": "/#services",
                 "style": "link"
