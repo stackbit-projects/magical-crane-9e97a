@@ -22,11 +22,6 @@
                 "style": "link"
             },
             {
-                "label": "Brands",
-                "url": "/#brands",
-                "style": "link"
-            },
-            {
                 "label": "About Us",
                 "url": "/#about",
                 "style": "link",
