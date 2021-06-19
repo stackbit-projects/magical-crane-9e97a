@@ -26,8 +26,8 @@ sections:
       *   Almost exclusive Sales Partnership in a particular pincode/locality
 
 
-      *   Self Service Portal to Place Order, Make Payments, Avail discounts,
-      Get redeem coupons and so on
+      *   Self Service Portal to Place Order, Make Payments, Avail discounts and
+      so on
 
 
       *   Dedicated Sales Executive to answer your queries
