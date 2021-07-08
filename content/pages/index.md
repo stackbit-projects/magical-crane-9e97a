@@ -382,7 +382,7 @@ seo:
     - name: 'twitter:description'
       value: Business Page of Sravi Enterprises
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: images/CircularLogo.png
       relativeUrl: true
 layout: advanced
 ---
