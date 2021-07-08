@@ -56,7 +56,7 @@ sections:
       - title: Sales Queries
         title_align: center
         content: |
-          Get you Sales Queries answered by asking for a Schedule
+          Get your Sales Queries answered by asking for a Schedule
         content_align: center
         actions:
           - label: Get Started
