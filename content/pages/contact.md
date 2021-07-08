@@ -19,7 +19,7 @@ sections:
         content: |
           Have any feedback? Have any complaints?
 
-          We Hear Your
+          We hear you & your
         content_align: center
         actions:
           - label: Feedback
