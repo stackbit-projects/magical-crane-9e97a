@@ -380,7 +380,7 @@ seo:
     - name: 'twitter:title'
       value: Sravi Enterprises
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Business Page of Sravi Enterprises
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
