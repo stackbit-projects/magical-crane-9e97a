@@ -128,7 +128,20 @@
                 "type": "action"
             }
         ],
-        "content": "&copy; Sravi Enterprises. All rights reserved"
+        "content": "&copy; Sravi Enterprises. All rights reserved",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "announcement": {
         "has_anncmnt": false,
