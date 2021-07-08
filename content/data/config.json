@@ -83,7 +83,7 @@
             },
             {
                 "label": "Track your order",
-                "url": "tracking.sravie.in",
+                "url": "https://tracking.sravie.in",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
