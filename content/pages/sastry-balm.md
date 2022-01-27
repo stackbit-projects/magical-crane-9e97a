@@ -7,7 +7,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Order
+          - label: Click to Order
             url: 'https://forms.gle/rnjNTZbcPkMGfSwo7'
             style: primary
             has_icon: false
