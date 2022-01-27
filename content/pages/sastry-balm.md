@@ -91,7 +91,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Delivery in 7 Working Days
+          - label: Delivery - 7 Working Days
             url: '#'
             style: secondary
             has_icon: false
