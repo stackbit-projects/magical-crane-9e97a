@@ -58,7 +58,7 @@
                 "type": "action"
             },
             {
-                "label": "Visit Store",
+                "label": "Order",
                 "url": "https://forms.gle/rnjNTZbcPkMGfSwo7",
                 "style": "primary"
             }
