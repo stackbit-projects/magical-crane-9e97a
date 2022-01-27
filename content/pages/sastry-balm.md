@@ -8,7 +8,7 @@ sections:
         content_align: left
         actions:
           - label: Order
-            url: 'https://wa.me/c/916399962999'
+            url: 'https://forms.gle/rnjNTZbcPkMGfSwo7'
             style: primary
             has_icon: false
             icon: arrow-left
