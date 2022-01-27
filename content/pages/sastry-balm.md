@@ -7,7 +7,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: View Products
+          - label: Order
             url: 'https://wa.me/c/916399962999'
             style: primary
             has_icon: false
