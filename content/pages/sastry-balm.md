@@ -7,7 +7,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Order from us
+          - label: Order
             url: 'https://forms.gle/rnjNTZbcPkMGfSwo7'
             style: primary
             has_icon: false
