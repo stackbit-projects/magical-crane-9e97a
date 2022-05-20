@@ -264,7 +264,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: /images/Email.png
-      - title: +91-6399962999
+      - title: +91-8122586261
         title_align: left
         content_align: left
         actions: []
