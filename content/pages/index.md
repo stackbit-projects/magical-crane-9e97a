@@ -5,7 +5,7 @@ sections:
     title: SRAVI ENTERPRISES
     subtitle: Authorised distributors of Sastry Balm
     content: |
-      We are the Tamil Nadu distribution partners for Sastry Balm
+      We are the Chennai Region distribution partners for Sastry Balm
     actions:
       - label: Sastry Balm
         url: /sastry-balm
